@@ -1,3 +1,3 @@
 print("hello world")
 print("delete student")
-print("haha")
+print("haha hhihi")
